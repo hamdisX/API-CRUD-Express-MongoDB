@@ -1,0 +1,26 @@
+{
+  "name": "easy-notes-app",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamdimiled/API-CRUD-Express-MongoDB.git"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Hamdi MILED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamdimiled/API-CRUD-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/hamdimiled/API-CRUD-Express-MongoDB#readme"
+}
